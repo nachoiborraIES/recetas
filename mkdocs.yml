@@ -17,7 +17,6 @@ use_directory_urls: false
 # Menú de navegación (izquierda)
 nav:
   - Inicio: index.md
-  - Recetas ligeras: ligeras.md
 
 # Tema CSS
 theme:
