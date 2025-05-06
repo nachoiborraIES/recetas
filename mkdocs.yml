@@ -7,7 +7,7 @@
 # - El resto de cosas son opcionales (estilos CSS, idioma, etc)
 
 # Cambiar nombre del sitio
-site_name: Web sobre recetas de cocina
+site_name: Recetas de cocina
 # Cambiar URL principal del sitio
 site_url: https://nahoiborraies.github.io/recetas
 # Este parámetro afecta a cómo se generan las URL
