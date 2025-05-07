@@ -1,8 +1,6 @@
 # Crema de boniato, puerros y champiñones
 
-<div align="center">
-    <img src="images/crema_boniato_puerros.jpg" width="40%">
-</div>
+<img src="images/crema_boniato_puerros.jpg">
 
 ## Datos básicos
 
