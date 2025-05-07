@@ -5,3 +5,11 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Cremas y purés
 
 * [Crema de boniato, puerros y champiñones](crema_boniato_puerros.md)
+
+## Pasta
+
+* [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+
+## Carnes
+
+* [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
