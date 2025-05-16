@@ -1,6 +1,8 @@
 # Cazuela de fideos con carrilleras
 
-<img src="images/cazuela_fideos_carrilleras.jpg">
+<div class="imagen">
+    <img src="images/cazuela_fideos_carrilleras.jpg">
+</div>
 
 ## Datos básicos
 
