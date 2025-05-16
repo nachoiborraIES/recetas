@@ -9,6 +9,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Pasta
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+* [Ramen](ramen.md)
 
 ## Carnes
 
