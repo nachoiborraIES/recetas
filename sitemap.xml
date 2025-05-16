@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nahoiborraies.github.io/recetas/index.html</loc>
-         <lastmod>2025-05-07</lastmod>
+         <lastmod>2025-05-16</lastmod>
     </url>
     <url>
          <loc>https://nahoiborraies.github.io/recetas/cazuela_fideos_carrilleras.html</loc>
-         <lastmod>2025-05-07</lastmod>
+         <lastmod>2025-05-16</lastmod>
     </url>
     <url>
          <loc>https://nahoiborraies.github.io/recetas/crema_boniato_puerros.html</loc>
-         <lastmod>2025-05-07</lastmod>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://nahoiborraies.github.io/recetas/ramen.html</loc>
+         <lastmod>2025-05-16</lastmod>
     </url>
 </urlset>
