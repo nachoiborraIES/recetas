@@ -1,6 +1,8 @@
 # Ramen
 
-<img src="images/ramen.png">
+<div class="imagen">
+    <img src="images/ramen.png">
+</div>
 
 ## Datos básicos
 

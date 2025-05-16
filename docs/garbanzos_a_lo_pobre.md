@@ -1,6 +1,8 @@
 # Garbanzos a lo pobre
 
-<img src="images/garbanzos_a_lo_pobre.jpg">
+<div class="imagen">
+    <img src="images/garbanzos_a_lo_pobre.jpg">
+</div>
 
 ## Datos básicos
 
