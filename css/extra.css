@@ -11,8 +11,6 @@ img[alt$="<"] {
 /* Formato general para imágenes */
 img {
     display: block;
-    padding-left: 30%;
-    padding-right: 30%;
     border-radius: 10px;
     box-shadow: 2px 4px 1px -2px black;
     height: auto;
@@ -23,4 +21,11 @@ img {
 /* Anchura para rejillas (por ejemplo, el panel central de la página */
 .md-grid {
     max-width: initial;
+}
+
+div .imagen
+{
+    text-align:center;
+    margin-left:30%;
+    margin-right:30%;
 }
