@@ -12,7 +12,7 @@ img[alt$="<"] {
 img {
     display: block;
     border-radius: 10px;
-    box-shadow: 4px 8px 1px -2px black;
+    box-shadow: 3px 6px 2px -2px grey;
     height: auto;
     margin: auto;
     float: none !important;
