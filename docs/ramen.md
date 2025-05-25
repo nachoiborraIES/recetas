@@ -8,6 +8,7 @@
 
 * Comensales: 4
 * Tiempo total de preparación: 3 horas
+* [Enlace a la receta en YouTube](https://www.youtube.com/watch?v=TMrZXI1mWiM)
 
 ## Ingredientes
 
