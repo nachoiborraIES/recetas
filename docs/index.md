@@ -7,6 +7,10 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Kebab casero](kebab.md)
 
+# Pescado
+
+* [Croquetas de bonito](croquetas_bonito.md)
+
 ## Cremas y purés
 
 * [Crema de boniato, puerros y champiñones](crema_boniato_puerros.md)
