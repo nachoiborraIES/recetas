@@ -22,9 +22,10 @@
 * Cebollino
 * 1 Limón
 
-**Carne:**
+**Carne y otros:**
 
 * 1 kg de contramuslos de pollo deshuesados y sin piel
+* 4-8 tortitas de piadina
 
 **Salsas, especias y condimentos:**
 
