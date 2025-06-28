@@ -5,6 +5,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Carnes
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+* [Kebab casero](kebab.md)
 
 ## Cremas y purés
 
