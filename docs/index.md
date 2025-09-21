@@ -11,6 +11,10 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Croquetas de bonito](croquetas_bonito.md)
 
+# Ensaladas
+
+* [Ensalada templada de patata y pimientos](ensalada_templada_patata_pimientos.md)
+
 ## Cremas y purés
 
 * [Crema de boniato, puerros y champiñones](crema_boniato_puerros.md)
