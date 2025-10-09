@@ -1,7 +1,7 @@
 # Curry de garbanzos
 
 <div class="imagen">
-    <img src="images/curry_de_garbanzos.jpg">
+    <img src="images/curry_de_garbanzos.png">
 </div>
 
 ## Datos básicos

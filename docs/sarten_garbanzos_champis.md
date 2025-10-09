@@ -1,7 +1,7 @@
 # Sartén de garbanzos y champiñones
 
 <div class="imagen">
-    <img src="images/sarten_garbanzos_champis.jpg">
+    <img src="images/sarten_garbanzos_champis.png">
 </div>
 
 ## Datos básicos
