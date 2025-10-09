@@ -22,6 +22,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Legumbres
 
 * [Garbanzos a lo pobre](garbanzos_a_lo_pobre.md)
+* [Curry de garbanzos](curry_de_garbanzos.md)
 
 ## Pasta
 
