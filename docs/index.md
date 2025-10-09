@@ -6,6 +6,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Kebab casero](kebab.md)
+* [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 
 # Pescado
 
@@ -23,6 +24,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Garbanzos a lo pobre](garbanzos_a_lo_pobre.md)
 * [Curry de garbanzos](curry_de_garbanzos.md)
+* [Sartén rápida de garbanzos y champiñones](sarten_garbanzos_champis.md)
 
 ## Pasta
 
