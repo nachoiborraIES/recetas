@@ -1,4 +1,4 @@
-# Garbanzos a lo pobre
+# Guisantes con salchichas y jamón
 
 <div class="imagen">
     <img src="images/guisantes_salchichas_jamon.png">

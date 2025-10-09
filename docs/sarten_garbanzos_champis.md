@@ -1,4 +1,4 @@
-# Curry de garbanzos
+# Sartén de garbanzos y champiñones
 
 <div class="imagen">
     <img src="images/sarten_garbanzos_champis.jpg">
