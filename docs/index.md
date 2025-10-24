@@ -8,7 +8,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Kebab casero](kebab.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 
-# Pescado
+# Pescados
 
 * [Croquetas de bonito](croquetas_bonito.md)
 
@@ -30,3 +30,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Ramen](ramen.md)
+
+## Repostería
+
+* [Tarta de la abuela](tarta_abuela.md)
