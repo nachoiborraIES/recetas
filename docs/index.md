@@ -8,11 +8,11 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Kebab casero](kebab.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 
-# Pescados
+## Pescados
 
 * [Croquetas de bonito](croquetas_bonito.md)
 
-# Ensaladas
+## Ensaladas
 
 * [Ensalada templada de patata y pimientos](ensalada_templada_patata_pimientos.md)
 
