@@ -7,6 +7,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Kebab casero](kebab.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
+* [Sopa de pollo](sopa_pollo.md)
 
 ## Pescados
 
@@ -30,7 +31,10 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Ramen](ramen.md)
+* [Sopa de pollo](sopa_pollo.md)
+* [Sopa de pasta](sopa_pasta.md)
 
 ## Repostería
 
 * [Tarta de la abuela](tarta_abuela.md)
+* [Donuts de chocolate](donuts_choco.md)
