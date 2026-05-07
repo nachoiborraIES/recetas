@@ -8,6 +8,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Kebab casero](kebab.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 * [Sopa de pollo](sopa_pollo.md)
+* [Pollo agridulce y arroz 3 delicias](pollo_agridulce_arroz_3d.md)
 
 ## Pescados
 
@@ -20,12 +21,14 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Cremas y purés
 
 * [Crema de boniato, puerros y champiñones](crema_boniato_puerros.md)
+* [Sobrasada casera](sobrasada_casera.md)
 
 ## Legumbres
 
 * [Garbanzos a lo pobre](garbanzos_a_lo_pobre.md)
 * [Curry de garbanzos](curry_de_garbanzos.md)
 * [Sartén rápida de garbanzos y champiñones](sarten_garbanzos_champis.md)
+* [Ensalada de garbanzos y huevo frito](ensalada_garbanzos_huevo.md)
 
 ## Pasta
 
@@ -38,3 +41,4 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Tarta de la abuela](tarta_abuela.md)
 * [Donuts de chocolate](donuts_choco.md)
+* [Mini pastel de chocolate](mini_pastel_chocolate.md)
