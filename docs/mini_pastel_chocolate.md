@@ -1,10 +1,10 @@
 # Mini pastel de chocolate
 
+## Versión 1
+
 <div class="imagen">
     <img src="images/mini_pastel_chocolate.png">
 </div>
-
-## Versión 1
 
 ### Datos básicos
 
@@ -29,6 +29,10 @@
 3. Llevar al microondas 1 minuto y medio
 
 ## Versión 2
+
+<div class="imagen">
+    <img src="images/mini_pastel_chocolate_2.png">
+</div>
 
 ### Datos básicos
 
