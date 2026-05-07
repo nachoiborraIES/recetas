@@ -1,4 +1,4 @@
-# Sopa de pollo
+# Pollo agridulce y arroz 3 delicias
 
 <div class="imagen">
     <img src="images/pollo_agridulce_arroz_3d.png">

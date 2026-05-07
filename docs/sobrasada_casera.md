@@ -1,4 +1,4 @@
-# Crema de boniato, puerros y champiñones
+# Sobrasada casera
 
 ## Datos básicos
 
