@@ -5,10 +5,11 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Carnes
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
-* [Kebab casero](kebab.md)
+* [Filetes rusos](filetes_rusos.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
-* [Sopa de pollo](sopa_pollo.md)
+* [Kebab casero](kebab.md)
 * [Pollo agridulce y arroz 3 delicias](pollo_agridulce_arroz_3d.md)
+* [Sopa de pollo](sopa_pollo.md)
 
 ## Pescados
 
@@ -25,10 +26,10 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 ## Legumbres
 
-* [Garbanzos a lo pobre](garbanzos_a_lo_pobre.md)
 * [Curry de garbanzos](curry_de_garbanzos.md)
-* [Sartén rápida de garbanzos y champiñones](sarten_garbanzos_champis.md)
 * [Ensalada de garbanzos y huevo frito](ensalada_garbanzos_huevo.md)
+* [Garbanzos a lo pobre](garbanzos_a_lo_pobre.md)
+* [Sartén rápida de garbanzos y champiñones](sarten_garbanzos_champis.md)
 
 ## Pasta
 
@@ -39,6 +40,10 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 ## Repostería
 
-* [Tarta de la abuela](tarta_abuela.md)
 * [Donuts de chocolate](donuts_choco.md)
 * [Mini pastel de chocolate](mini_pastel_chocolate.md)
+* [Tarta de la abuela](tarta_abuela.md)
+
+## Salsas y guarniciones
+
+* [Salsa agridulce](salsa_agridulce.md)
