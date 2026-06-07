@@ -9,11 +9,13 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 * [Kebab casero](kebab.md)
 * [Pollo agridulce y arroz 3 delicias](pollo_agridulce_arroz_3d.md)
+* [Pollo al limón estilo chino](pollo_limon.md)
 * [Sopa de pollo](sopa_pollo.md)
 
 ## Pescados
 
 * [Croquetas de bonito](croquetas_bonito.md)
+* [Guiso de rape](guiso_rape.md)
 
 ## Ensaladas
 
