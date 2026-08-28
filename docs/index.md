@@ -5,6 +5,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Carnes
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+* [Contramuslos de pollo al horno con patatas](contramuslos_pollo_horno.md)
 * [Fideos con secreto y setas](fideos_secreto_setas.md)
 * [Filetes rusos](filetes_rusos.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
