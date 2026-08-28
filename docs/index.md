@@ -5,6 +5,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Carnes
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+* [Fideos con secreto y setas](fideos_secreto_setas.md)
 * [Filetes rusos](filetes_rusos.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
 * [Kebab casero](kebab.md)
@@ -36,6 +37,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Pasta
 
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
+* [Fideos con secreto y setas](fideos_secreto_setas.md)
 * [Ramen](ramen.md)
 * [Sopa de pollo](sopa_pollo.md)
 * [Sopa de pasta](sopa_pasta.md)
