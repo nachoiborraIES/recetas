@@ -53,3 +53,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Salsas y guarniciones
 
 * [Salsa agridulce](salsa_agridulce.md)
+
+## Bebidas y cócteles
+
+* [Granizado de San Francisco (Thermomix)](granizado_san_francisco.md)
