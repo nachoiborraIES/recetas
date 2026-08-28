@@ -28,7 +28,7 @@
 ## Preparación
 
 1. Echar las carrilleras en una olla con aceite, añadir sal y pimienta y dorar hasta que estén selladas. Reservar
-2. En la misma olla con el mismo aceite, freír la cebolla y los pimientos cortados, con un poco sal. Cocinamos 10 minutos a un fuego de 6 sobre 9.
+2. En la misma olla con el mismo aceite, freír la cebolla y los pimientos cortados, junto con los ajos pelados y enteros y con un poco sal. Cocinamos 10 minutos a un fuego de 6 sobre 9.
 3. Incorporar 5 tomates enteros pelados, machacarlos un poco y añadir el orégano y el romero. Remover y dejar un par de minutos
 4. Cubrir con parte del caldo de pollo/carne y el chorro de vinagre. Dejar unos minutos hasta que rompa a hervir
 5. Añadir las carrilleras reservadas, cubrir con el resto del caldo y algo de agua si es necesario. Cocinar a un fuego de 5 o 6 sobre 9 durante 2 horas, con la tapa puesta.
