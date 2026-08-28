@@ -17,11 +17,11 @@
 * 2-3 cucharaditas de postre de cacao puro en polvo
 * 1/2 cucharadita de postre de levadura
 * 1 onza de chocolate puro
-* 1 puñadito de nueces troceadas
+* 1 puñadito de nueces troceadas o picadas
 
 ## Preparación
 
 1. En un bol aplastar bien el plátano. Añadir los huevos, el cacao y la levadura, y mezclar todo bien
 2. Llevar al microondas a máxima potencia 3-5 minutos
 3. Sacar caliente y restregar la onza de chocolate por encima para que se vaya derritiendo en la superficie
-4. Espolvorear con las nueces troceadas
+4. Espolvorear las nueces picadas
