@@ -34,8 +34,8 @@
     * El huevo
     * El pan rallado
     * Sal y pimienta (añadir otras especias al gusto)
-* Mezclar hasta obtener una masa homogénea. Formar entonces albóndigas
-* Hornear a 190ºC sobre papel vegetal, unos 8-10 minutos por lado (dar la vuelta cuando estén doradas de un lado)
+* Mezclar hasta obtener una masa homogénea. Formar entonces albóndigas y ponerlas sobre una bandeja de horno con papel vegetal. Rociar con aceite por encima
+* Hornear a 220 unos 15 minutos (dar la vuelta cuando estén doradas por un lado)
 * Hervir el arroz unos 20 minutos mientras se hacen las albóndigas
 * Preparar la salsa: mezclar el yogur griego con el zumo de limón, 2 cucharadas de aceite de oliva, ajo en polvo, sal y pimienta al gusto
 * Emplatar las albóndigas junto con el arroz y 1-2 cucharadas de salsa
