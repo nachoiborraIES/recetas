@@ -4,6 +4,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 ## Carnes
 
+* [Albóndigas de pollo y calabacín](albondigas_pollo_calabacin.md)
 * [Cazuela de fideos con carrilleras](cazuela_fideos_carrilleras.md)
 * [Contramuslos de pollo al horno con patatas](contramuslos_pollo_horno.md)
 * [Fideos con secreto y setas](fideos_secreto_setas.md)
