@@ -8,6 +8,7 @@
 
 * Comensales: 4
 * Tiempo total de preparación: 1 hora 30 minutos
+* [Receta original en Internet](https://megustacomersano.com/2026/07/05/albondigas-de-pollo-y-calabacin-super-jugosas-sabrosas-y-bajas-en-grasa/)
 
 ## Ingredientes
 
