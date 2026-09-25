@@ -10,15 +10,18 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 * [Fideos con secreto y setas](fideos_secreto_setas.md)
 * [Filetes rusos](filetes_rusos.md)
 * [Guisantes con salchichas y jamón](guisantes_salchichas_jamon.md)
+* [Hamburguesa estilo Big Mac](hamburguesa_bic_mac.md)
 * [Kebab casero](kebab.md)
 * [Pollo agridulce y arroz 3 delicias](pollo_agridulce_arroz_3d.md)
 * [Pollo al limón estilo chino](pollo_limon.md)
 * [Sopa de pollo](sopa_pollo.md)
+* [Wraps de pollo BBQ](wraps_pollo_bbq.md)
 
 ## Pescados
 
 * [Croquetas de bonito](croquetas_bonito.md)
 * [Guiso de rape](guiso_rape.md)
+* [Wraps de atún](wrap_atun.md)
 
 ## Ensaladas
 
@@ -47,7 +50,9 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Repostería
 
 * [Bizcocho de chocolate saludable](bizcocho_choco_saludable.md)
+* [Cookies con pepitas de chocolate](cookies_pepitas_choco.md)
 * [Donuts](donuts.md)
+* [Magdalenas con pepitas de chocolate](magdalenas_pepitas_choco.md)
 * [Mini pastel de chocolate](mini_pastel_chocolate.md)
 * [Tarta de la abuela](tarta_abuela.md)
 
