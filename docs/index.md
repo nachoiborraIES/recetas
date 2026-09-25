@@ -21,7 +21,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 
 * [Croquetas de bonito](croquetas_bonito.md)
 * [Guiso de rape](guiso_rape.md)
-* [Wraps de atún](wrap_atun.md)
+* [Wraps de atún](wraps_atun.md)
 
 ## Ensaladas
 
