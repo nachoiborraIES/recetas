@@ -47,7 +47,7 @@ Esta web recopila distintas recetas de cocina agrupadas en categorías. Desde el
 ## Repostería
 
 * [Bizcocho de chocolate saludable](bizcocho_choco_saludable.md)
-* [Donuts de chocolate](donuts_choco.md)
+* [Donuts](donuts.md)
 * [Mini pastel de chocolate](mini_pastel_chocolate.md)
 * [Tarta de la abuela](tarta_abuela.md)
 
