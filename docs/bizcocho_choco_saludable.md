@@ -63,7 +63,7 @@
 ### Datos básicos
 
 * Comensales: 4
-* Tiempo total de preparación: 30 minutos
+* Tiempo total de preparación: 10 minutos
 * [Receta en Facebook](https://www.facebook.com/reel/2189113868686779)
 
 ### Ingredientes
