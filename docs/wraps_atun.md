@@ -10,18 +10,19 @@
 * Tiempo total de preparación: 10 minutos
 * [Receta original en Facebook](https://www.facebook.com/reel/1084411287285718)
 
-## Ingredientes (por persona)
+## Ingredientes (4 personas)
 
 *Versión adaptada respecto a la receta original*
 
 * 2-3 tortillas de trigo de 36 g por persona
-* 4 latas de atún al natural
-* 1 Cebolla picada
+* 5 latas de atún al natural
+* 3 huevos duros
+* 1 Cebolla pequeña picada (o media grande)
 * Zanahoria rallada
 * 1 aguacate picado
-* 7-8 cucharadas de yogur natural, queso fresco batido o yogur griego light
-* 2 cucharadas de mayonesa
-* 2 cucharadas de mostaza
+* 10-12 cucharadas de yogur natural, queso fresco batido o yogur griego light
+* 3 cucharadas de mayonesa
+* 3 cucharadas de mostaza
 * Sal, pimienta y ajo en polvo
 * Cebollino
 
